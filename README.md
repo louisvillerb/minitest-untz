@@ -29,7 +29,7 @@ Enable untz output format with `-u` or `--untz` test options, or just require
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/minitest-untz/fork )
+1. Fork it ( https://github.com/louisvillerb/minitest-untz/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
